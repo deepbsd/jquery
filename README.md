@@ -14,6 +14,11 @@ In the spirit of open source software development, jQuery always encourages comm
 2. [Core Style Guide](https://contribute.jquery.org/style-guide/js/)
 3. [Writing Code for jQuery Foundation Projects](https://contribute.jquery.org/code/)
 
+#### This is Dave's Fork
+--------------------------------------
+
+I'm just forking this famous library so I can learn from excellent open source code.
+
 
 Environments in which to use jQuery
 --------------------------------------
